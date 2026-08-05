@@ -107,3 +107,9 @@ div.table-wrapper {
     width: 100%;
     overflow-x: auto;
 }
+
+div.table-wrapper > table {
+    width: 100%;
+    border-collapse: collapse;
+    white-space: nowrap;
+}
