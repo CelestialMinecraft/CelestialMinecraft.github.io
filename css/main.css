@@ -99,3 +99,11 @@ td.no {
     color: #FFFFFF;
     border-color: rgba(255, 255, 255, 0.25);
 }
+
+div.table-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    overflow-x: auto;
+}
