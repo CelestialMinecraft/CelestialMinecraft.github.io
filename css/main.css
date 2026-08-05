@@ -110,6 +110,7 @@ div.table-wrapper {
 
 div.table-wrapper > table {
     width: 100%;
+    max-width: 100%;
     border-collapse: collapse;
     white-space: nowrap;
 }
